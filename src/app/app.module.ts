@@ -15,7 +15,7 @@ import { DataService } from './services/data.service'
   imports: [
     BrowserModule,
     FormsModule,
-    HttpModule
+    
 
   ],
   providers: [DataService],
